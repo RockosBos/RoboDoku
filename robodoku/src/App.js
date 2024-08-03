@@ -37,7 +37,8 @@ function App() {
 		height: '50%',
 		borderRadius: '4px',
 		backgroundColor: 'lightGrey',
-		border: '2px solid black'
+		border: '2px solid black',
+		paddingBottom: '5%'
 	}
 
 	const gridContentContainerStyle = {
